@@ -1,0 +1,2 @@
+[submodule "testdir"]
+	ignore = untracked
